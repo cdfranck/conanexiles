@@ -1,6 +1,6 @@
 FROM ubuntu:18.04
 
-LABEL maintainer="Paul Steinlechner"
+LABEL maintainer JJTC "docker@jjtc.eu"
 
 ENV TIMEZONE=Europe/Vienna \
     DEBIAN_FRONTEND=noninteractive \
