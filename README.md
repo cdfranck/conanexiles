@@ -47,7 +47,7 @@ version: "3.5"
 services:
   ce0:
     build: src/
-    image: alinmear/docker-conanexiles:1.2
+    image: jjtc/conan_exiles:1.2
     restart: unless-stopped
     environment:
       - "CONANEXILES_ServerSettings_ServerSettings_AdminPassword=ThanksForThisSmartSolution"
