@@ -1,9 +1,8 @@
 # Conan Exiles for Docker
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/alinmear/docker-conanexiles.svg?style=flat)](https://hub.docker.com/r/alinmear/docker-conanexiles/) 
-[![Github Stars](https://img.shields.io/github/stars/alinmear/docker-conanexiles.svg?style=flat)](https://github.com/alinmear/docker-conanexiles) 
-[![Github Forks](https://img.shields.io/github/forks/alinmear/docker-conanexiles.svg?style=flat?label=github%20forks)](https://github.com/alinmear/docker-conanexiles/)
-[![Gitter](https://img.shields.io/gitter/room/alinmear/docker-conanexiles.svg?style=flat)](https://gitter.im/alinmear/docker-conanexiles)
+[![Docker Pulls](https://img.shields.io/docker/pulls/jjtc-docker/conan_exiles.svg?style=flat)](https://hub.docker.com/r/jjtc/conan_exiles/) 
+[![Github Stars](https://img.shields.io/github/stars/jjtc-docker/conan_exiles.svg?style=flat)](https://github.com/jjtc-docker/conan_exiles) 
+[![Github Forks](https://img.shields.io/github/forks/jjtc-docker/conan_exiles.svg?style=flat?label=github%20forks)](https://github.com/jjtc-docker/conan_exiles/)
 
 ## Features
 * Full automatic provisioning of Steam and Conan Exiles Dedicated Server
@@ -20,7 +19,7 @@
 
 ### Get started
 ```
-curl -LJO https://raw.githubusercontent.com/alinmear/docker-conanexiles/master/docker-compose.yml
+curl -LJO https://raw.githubusercontent.com/jjtc/conan_exiles/master/docker-compose.yml
 docker-compose pull
 ```
 
