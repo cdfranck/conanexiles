@@ -1,5 +1,5 @@
 # Conan Exiles for Docker
-
+[![Build Status](https://cloud.drone.io/api/badges/JJTC-Docker/conan_exiles/status.svg)](https://cloud.drone.io/JJTC-Docker/conan_exiles)
 [![Docker Pulls](https://img.shields.io/docker/pulls/jjtc/conan_exiles.svg?style=flat)](https://hub.docker.com/r/jjtc/conan_exiles/) 
 [![Github Stars](https://img.shields.io/github/stars/jjtc-docker/conan_exiles.svg?style=flat)](https://github.com/jjtc-docker/conan_exiles) 
 [![Github Forks](https://img.shields.io/github/forks/jjtc-docker/conan_exiles.svg?style=flat?label=github%20forks)](https://github.com/jjtc-docker/conan_exiles/)
